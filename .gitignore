@@ -26,3 +26,7 @@ Thumbs.db
 # Yerel SQLite veritabanı (klonlayan kişi migrate ile oluşturur)
 /database/*.sqlite
 /database/*.sqlite-journal
+
+# Editör/araç ayarları
+.claude/
+.vscode/
